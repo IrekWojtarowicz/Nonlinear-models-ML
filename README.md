@@ -16,5 +16,5 @@ Simple student project to test non-linear models on 2D synthetic data.
    Thanks to this, it was possible to later decide which models achieve the smallest prediction errors.
    
 ## Files
-- nonlinear_models - R markdown file containing code and the whole report (visualisations, comments and results)
-- nonlinear_models_report_with_code - knited and ready to read version of nonlinear_models file
+- nonlinear_models.rmd - R markdown file containing code and the whole report (visualisations, comments and results)
+- nonlinear_models.r - plain code
